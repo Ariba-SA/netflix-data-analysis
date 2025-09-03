@@ -11,3 +11,5 @@ Help businesses understand viewer behavior for strategic decisions (e.g., which 
 
 
 <img width="423" height="243" alt="netflix dashboard" src="https://github.com/user-attachments/assets/b5ded6d7-c8bf-4f6b-afac-a43d7d2bdcde" />
+
+
